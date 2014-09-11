@@ -15,3 +15,5 @@ Since the beginning of 2009, more than 1,500 people have appeared on five Sunday
 * [Download original data from AU](http://w.american.edu/spa/wpi/SundayMorningMaster5-29_a.xlsx)
 
 * [View and download cleaned data](https://github.com/TheUpshot/Sunday-Shows/blob/master/guests.csv)
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/view/S5BU1MTGBF4PBPC)
